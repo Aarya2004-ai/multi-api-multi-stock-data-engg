@@ -29,6 +29,3 @@ Additionally, the project includes a sentiment analysis layer that enriches fina
 * Automate downstream reporting with Power BI dashboards.
 * Extend NLP sentiment model for multi-language news.
 
----
-
-Do you want me to make this **GitHub README** more **visual** (like including a flow diagram of your pipeline instead of the folder structure) so it looks portfolio-polished?
